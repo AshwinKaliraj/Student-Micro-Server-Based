@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 {"Version":1,"Hash":"HiED2kxDEZqgMUPkjWKpMZynmY8CArzhSMBmCh7I47M=","Source":"UserService","BasePath":"_content/UserService","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+=======
+<<<<<<< HEAD
+{"Version":1,"Hash":"NVO7cgqQgTGQDk9iVc6MoKqmUABgF0xZWR4n2uX1+fQ=","Source":"AuthService","BasePath":"_content/AuthService","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+=======
+{"Version":1,"Hash":"HCQ8XSnyZsL/N1gEE5/xq4Ghvx3LWaL60loWcwPgMDw=","Source":"ApiGateway","BasePath":"_content/ApiGateway","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+>>>>>>> ba9def238678208eb864981aa9b49f329be4c17e
+>>>>>>> 0cf120da0bdc5533440939b2d1292185d4a9f130

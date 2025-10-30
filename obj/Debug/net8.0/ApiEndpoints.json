@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "ContainingType": "UserService.Controllers.UsersController",
@@ -112,16 +113,67 @@
     "ContainingType": "UserService.Controllers.UsersController",
     "Method": "SyncFromAuthService",
     "RelativePath": "api/Users/sync",
+=======
+<<<<<<< HEAD
+[
+  {
+    "ContainingType": "AuthService.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+>>>>>>> 0cf120da0bdc5533440939b2d1292185d4a9f130
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "request",
+<<<<<<< HEAD
         "Type": "UserService.Controllers.SyncRequest",
+=======
+        "Type": "AuthService.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthService.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AuthService.Controllers.RegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthService.Controllers.AuthController",
+    "Method": "SyncFromUserService",
+    "RelativePath": "api/Auth/sync",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AuthService.Controllers.SyncRequest",
+>>>>>>> 0cf120da0bdc5533440939b2d1292185d4a9f130
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   }
+<<<<<<< HEAD
 ]
+=======
+]
+=======
+[]
+>>>>>>> ba9def238678208eb864981aa9b49f329be4c17e
+>>>>>>> 0cf120da0bdc5533440939b2d1292185d4a9f130
